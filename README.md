@@ -1,7 +1,5 @@
 # Taskr - CLI Task Manager
 
-#### Video Demo: <https://youtu.be/GGD8YTPNs2Y>
-
 #### Description:
 
 Taskr is a command-line task manager built in Python. Instead of
