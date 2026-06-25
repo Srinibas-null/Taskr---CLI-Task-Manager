@@ -5,7 +5,7 @@
 Taskr is a command-line task manager built in Python. Instead of
 opening an app or a browser, the user manages their to-do list
 entirely from the terminal by typing simple commands. Tasks are
-saved to a JSON file so they persist between sessions — closing
+saved to a JSON file so they persist between sessions, closing
 the terminal does not erase anything.
 
 ## Why I Built This
