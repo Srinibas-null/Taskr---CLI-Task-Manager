@@ -113,3 +113,6 @@ Error handling was added at every file operation rather than
 assuming the file exists. This means the program behaves
 gracefully on first run, when the file is missing, or if the
 file gets corrupted.
+
+## Author 
+- Srinibas 
