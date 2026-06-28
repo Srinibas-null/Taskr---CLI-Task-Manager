@@ -34,7 +34,7 @@ python project.py delete <id>
 
 python project.py q
 
-## Project Files
+## Project Files 📂
 
 ### project.py
 
@@ -95,7 +95,7 @@ Lists the only external dependency — rich. This library provides
 the styled table output in list_task(). Everything else in the
 project uses Python's standard library.
 
-## Design Choices
+## Design Choices ⚙️
 
 The biggest design decision was switching complete_task() and
 delete_task() from name-based matching to ID-based matching.
