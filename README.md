@@ -1,6 +1,6 @@
 # Taskr - CLI Task Manager
 
-#### Description:
+#### Description 🖋:
 
 Taskr is a command-line task manager built in Python. Instead of
 opening an app or a browser, the user manages their to-do list
@@ -8,7 +8,7 @@ entirely from the terminal by typing simple commands. Tasks are
 saved to a JSON file so they persist between sessions, closing
 the terminal does not erase anything.
 
-## Why I Built This
+## Why I Built This ⚒️
 
 I wanted to build something practical that I would actually use.
 A task manager felt like the right choice because it covers the
@@ -18,7 +18,7 @@ The command-line interface also felt like a natural fit given
 that CS50P is fundamentally about writing Python programs that
 run in a terminal environment.
 
-## How To Run
+## How To Run 🏃‍♂️
 
 Install dependencies first:
 pip install -r requirements.txt
